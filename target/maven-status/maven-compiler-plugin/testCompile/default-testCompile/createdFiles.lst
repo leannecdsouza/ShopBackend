@@ -1,0 +1,5 @@
+com\leanne\backend\tests\SupplierTestCase.class
+com\leanne\backend\tests\CategoryTestCase.class
+com\leanne\backend\tests\UserTestCase.class
+com\leanne\backend\AppTest.class
+com\leanne\backend\tests\CartTestCase.class
